@@ -2,6 +2,7 @@
 <div align="right">
   <img src="https://i.ibb.co/xtjsG9k1/oracle-badge.png" alt="Oracle Certified Professional" width="150"/>
 </div>
+
 ### AI/ML Developer | Founder | Medical Data Scientist
 
 I build AI products that solve real problems. Currently working on tools for neurodivergent minds and developer productivity.
