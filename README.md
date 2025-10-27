@@ -5,9 +5,6 @@
 
 I spent 4 years deep in medical data-analyzing research for 30+ doctors, getting my hands dirty with real clinical problems. That taught me something: good ML isn't just about models, it's about understanding the humans behind the data. Now I build AI products people actually use. Published a book, launched 3 products (one hit 1K+ waitlist), applied to YC. Currently obsessed with making AI work for neurodivergent minds and making developers' lives easier.
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fayeqqamarr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fayeq.py) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fayeqqamarr@gmail.com)
-
 ---
 
 ## 🚀 What I'm Building
@@ -98,6 +95,9 @@ I spent 11 years fighting my brain. Now I build AI tools that work *with* differ
 ---
 
 *"For 11 years I fought with my brain. Now I'm building solutions for minds like mine."*
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fayeqqamarr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fayeq.py) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fayeqqamarr@gmail.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Fayeq-qamar&icon=0&color=0)](https://visitcount.itsvg.in)
