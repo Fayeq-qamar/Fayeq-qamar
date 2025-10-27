@@ -39,8 +39,7 @@ I build AI products that solve real problems. Currently working on tools for neu
 - Conducted analysis for **COVID-19 ivermectin white paper published in PubMed Central**  
 - Collaborated with senior physicians on research design and clinical insights
 
-**Published Author**  
-- *"Top of the Game: Upgrade your Brain without breaking you Mind"* (Amazon/Google Play)
+**Published Author** - *"Top of the Game: Upgrade your Brain without breaking you Mind"* ([Amazon/Google Play](https://play.google.com/store/books/details/Top_of_the_Game_Upgrade_your_Brain_without_breakin?id=Uow5EAAAQBAJ))
 
 ---
 
