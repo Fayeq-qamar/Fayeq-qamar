@@ -1,7 +1,5 @@
 # Hi, I'm Fayeq Qamar 👋
-<div align="right">
-  <img src="https://i.ibb.co/xtjsG9k1/oracle-badge.png" alt="Oracle Certified Professional" width="150"/>
-</div>
+<img align="right" src="https://i.ibb.co/xtjsG9k1/oracle-badge.png" alt="Oracle Certified" width="120"/>
 
 ### AI/ML Developer | Founder | Medical Data Scientist
 
