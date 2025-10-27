@@ -1,9 +1,9 @@
 # Hi, I'm Fayeq Qamar 👋
 <img align="right" src="https://i.ibb.co/xtjsG9k1/oracle-badge.png" alt="Oracle Certified" width="120"/>
 
-### AI/ML Developer | Founder | Medical Data Scientist
+### AI/ML Developer | Founder | Medical Research Consultant (4+ Years)
 
-I build AI products that solve real problems. Currently working on tools for neurodivergent minds and developer productivity.
+I spent 4 years deep in medical data—analyzing research for 30+ doctors, getting my hands dirty with real clinical problems. That taught me something: good ML isn't just about models, it's about understanding the humans behind the data. Now I build AI products people actually use. Published a book, launched 3 products (one hit 1K+ waitlist), applied to YC. Currently obsessed with making AI work for neurodivergent minds and making developers' lives easier.
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fayeqqamarr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fayeq.py) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fayeqqamarr@gmail.com)
